@@ -1,0 +1,31 @@
+.incre-btn{
+    width: 7%;
+    padding: 6px;
+    border: 1px solid blue;
+    background-color: blue;
+    color: white;
+    font-size: 15px;
+    border-radius: 5%;
+    margin-right: 15px;
+}
+
+.decre-btn{
+    width: 7%;
+    padding: 6px;
+    border: 1px solid  #168d29;;
+    background-color: #168d29;
+    color: white;
+    font-size: 15px;
+    border-radius: 5%;
+    margin-right: 15px;
+}
+
+.update-btn{
+    width: 7%;
+    padding: 6px;
+    border: 1px solid #FFEB3B;
+    background-color: #FFEB3B;
+    color: #080808;
+    font-size: 15px;
+    border-radius: 5%;
+}
